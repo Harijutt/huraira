@@ -1,5 +1,0 @@
-# huraira
-This is my first Repository.
-<br>
-Author - Huraira (Basharat)
-
